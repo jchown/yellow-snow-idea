@@ -1,4 +1,4 @@
-package com.github.jchown.yellowsnowplugin
+package com.jasonchown.yellowsnow.idea
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

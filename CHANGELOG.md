@@ -1,6 +1,4 @@
-<!-- Keep a Changelog guide -> https://keepachangelog.com -->
-
-# yellow-snow-plugin Changelog
+# yellow-snow-idea Changelog
 
 ## [Unreleased]
 ### Added
